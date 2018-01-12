@@ -1,0 +1,5 @@
+.DS_Store
+tic-tac-toe/target/
+.#*
+.lein-failures
+.nrepl-port
